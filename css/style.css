@@ -82,3 +82,31 @@ li{
 .header-bottom{
     padding: 5px 0;
 }
+
+/* main */
+
+.section-row{
+    display: flex;
+    justify-content: center;
+}
+
+.row{
+    width: var(--big-width);
+    display: flex;
+    padding: 40px 0;
+}
+
+.row-element{
+    height: 500px;
+    border: 3px dashed black;
+}
+
+.big-element{
+    flex-basis: 60%;
+    background-color: #1E90FF;
+}
+
+.small-element{
+    flex-basis: 40%;
+    background-color: #FFC0CB;
+}
