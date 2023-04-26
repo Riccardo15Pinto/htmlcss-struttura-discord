@@ -28,6 +28,10 @@ li{
     margin: 0 5px;    
 }
 
+footer{
+    background-color: #23272A;
+}
+
 /* header element */
 
 .header-top{
