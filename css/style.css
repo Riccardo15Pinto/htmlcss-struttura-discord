@@ -5,3 +5,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Generics */
+
+header{
+    background-color: #ADD8E6;
+    min-height: 600px;
+}
